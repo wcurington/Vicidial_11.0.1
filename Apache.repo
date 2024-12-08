@@ -1,0 +1,7 @@
+[Apache]
+name=Apache HTTPD (openSUSE_Leap_15.6)
+type=rpm-md
+baseurl=https://download.opensuse.org/repositories/Apache/openSUSE_Leap_15.6/
+gpgcheck=1
+gpgkey=https://download.opensuse.org/repositories/Apache/openSUSE_Leap_15.6/repodata/repomd.xml.key
+enabled=1
